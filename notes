@@ -1,0 +1,115 @@
+Class 33
+---------------------
+सबसे आम त्रुटियां हैं:
+1. टाइपो: आपने गलती से एक चर या एक फ़ंक्शन नाम को गलत कर दिया है जिसे कंप्यूटर समझ नहीं पाता है।
+ 2. फ़ंक्शन का गलत उपयोग: आपने एक फ़ंक्शन का उपयोग उस तरीके से किया है जिसका उपयोग करने का इरादा नहीं था।
+3. उनके दायरे के बाहर चर का उपयोग करना: यदि आप अपने दायरे के बाहर चर का उपयोग कर रहे हैं, तो कंप्यूटर को इन चरों के मूल्य का पता नहीं चलेगा।
+
+--------------------------------
+अक्सर इसमें कोई त्रुटि संदेश नहीं होता है
+कंसोल और फिर भी आपका प्रोग्राम है
+अपेक्षित तरीके से व्यवहार नहीं करना।
+या त्रुटि संदेश आपको नहीं बताता है
+वह सब कुछ जो निश्चित करने की आवश्यकता है।
+
+
+वहाँ कुछ तकनीकें हैं जो करेंगे
+आपकी पहचान करने में मदद करता है कि क्या कारण है
+बग या आपके कोड का कौन सा अनुभाग है
+इस बग के लिए अग्रणी।
+
+1. टिप्पणी अनुभाग
+आपका कोड: आप टिप्पणी कर सकते हैं
+आपके कोड के कुछ अनुभाग
+अपना कोड सरल करें और देखें कि क्या है
+आपका कोड अभी भी त्रुटियों को फेंकता है। में
+इस तरह आप नीचे संकीर्ण हो सकते हैं
+कोड का वह हिस्सा जो है
+इस त्रुटि के कारण।
+
+2. चर का मुद्रण मूल्य
+कंसोल में: आप प्रिंट कर सकते हैं
+महत्वपूर्ण चर के मूल्य
+सांत्वना में नेत्रहीन देखने के लिए
+वे किस तरह से बदल रहे हैं
+कोड। अगर वे नहीं बदल रहे हैं
+जैसा कि आप उन्हें करना चाहते हैं, वहाँ है
+कुछ अप्रत्याशित
+हो रहा है। आप ऐसा कर सकते हैं
+
+
+3. अपने में संदेश प्रिंट करें
+कोड: आप संदेश मुद्रित कर सकते हैं
+अपने कोड में नेत्रहीन के लिए
+कोड कैसे है समझें
+चल रहा है।
+उदाहरण के लिए: आप प्रिंट कर सकते हैं
+करने के लिए कंसोल में संदेश
+निष्पादित करते समय समझें
+कोड, एक code अगर ब्लॉक हो रहा है
+निष्पादित या। अन्य ब्लॉक। '
+
+
+
+
+----------------------------------------------------
+
+
+
+
+The most common errors are1. Typos: You accidentally
+misspelled a variable or a
+function name which the
+computer doesn't understand.
+2. Incorrect Use of function:
+You used a function in a way it
+wasn't intended to be used.
+3. Using variables outside their
+scope: If you are using
+variables outside their scope,
+the computer wouldn't know
+the value of these variables.
+
+
+
+Often there are no error messages in
+the console and yet your program is
+not behaving in the expected way.
+Or the error message doesn't tell you
+everything that needs to be fixed.
+There are a few techniques which will
+help you identify what is causing the
+bug or which section of your code is
+leading to this bug.
+
+1. Commenting sections of
+your code: You can comment
+certain sections of your code to
+simplify your code and check if
+your code still throws errors. In
+this way you can narrow down
+to the part of the code which is
+causing this error.
+
+
+2. Printing values of variables
+in the console: You can print
+the values of critical variables
+in the console to visually see
+how they are changing in the
+code. If they are not changing
+as you intend them to, there is
+something unexpected
+happening. You can
+manipulate the variable values
+to identify what is happening.
+3. Print messages in your
+code: You can print messages
+in your code to visually
+understand how the code is
+running.
+For example: You can print
+messages in the console to
+understand if while executing
+the code, an ‘if block’ is getting
+executed or the ‘else block.’
